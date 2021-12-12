@@ -16,7 +16,23 @@ Here are some ideas to get you started:
 	<a href="https://www.linkedin.com/in/lewissmallwood/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
-Text goes here :)
+
+<a href="https://github.com/LewisSmallwood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LewisSmallwood&show_icons=true&hide=issues&line_height=24&count_private=true&include_all_commits=true&text_color=000000&icon_color=cd2c65&bg_color=ffffff&border_color=000000&hide_rank=true&hide_title=true" alt="GitHub Stats" />
+</a>
+
+<a href="#">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
+</a>
+
+<a href="https://www.credly.com/badges/76e6ee9a-546d-4423-a596-edb8ecfee818">
+<img align="center" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="135" height="135" />
+</a>
+
 
 <h3 align="left">Languages</h3>
 
@@ -51,16 +67,3 @@ Text goes here :)
 ![](https://img.shields.io/badge/Tools-DigitalOcean-informational)
 ![](https://img.shields.io/badge/Tools-Docker-informational)
 ![](https://img.shields.io/badge/Tools-Microservices-informational)
-
-<a href="https://www.credly.com/badges/76e6ee9a-546d-4423-a596-edb8ecfee818">
-  <img align="center" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="180" height="180" />
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-</a>
-
-<a href="https://github.com/LewisSmallwood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LewisSmallwood&show_icons=true&hide=issues&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&custom_title=Lewis%20Smallwood's%20Public%20Activity" alt="GitHub Stats" />
-</a>
