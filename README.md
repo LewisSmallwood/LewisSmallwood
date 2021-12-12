@@ -11,15 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Header](https://raw.githubusercontent.com/LewisSmallwood/LewisSmallwood/master/Media/GitHubBanner.png "Header")](https://lewissmallwood.co.uk)
-
-<p align="center">    
+<p align="left">    
 	<a href="https://twitter.com/LewisSmallwood"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/lewissmallwood/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
-
-<h2 align="center">Hello there! My name is Lewis Smallwood.</h2>
 
 Text goes here :)
 
