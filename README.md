@@ -3,8 +3,8 @@
     <a href="https://twitter.com/LewisSmallwood"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
     <a href="https://www.linkedin.com/in/lewissmallwood/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 
-* Software Engineer @RedCards
-* Managing Director @BespokeTechLabs
+* Software Engineer [@RedCards](https://www.github.com/RedCards)
+* Managing Director [@BespokeTechLabs](https://www.github.com/BespokeTechLabs)
 * AWS Certified Cloud Practitioner
 
 ### Skills, Tools, and Proficiencies
