@@ -1,29 +1,13 @@
+## Lewis Smallwood BSc (Hons) MBCS
 <p align="left">    
     <a href="https://twitter.com/LewisSmallwood"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
-    <a href="https://www.linkedin.com/in/lewissmallwood/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-</p>
+    <a href="https://www.linkedin.com/in/lewissmallwood/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></p>
 
-<a href="https://github.com/LewisSmallwood">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=LewisSmallwood&show_icons=true&hide=issues&line_height=24&count_private=true&include_all_commits=true&text_color=000000&icon_color=cd2c65&bg_color=ffffff&border_color=000000&hide_rank=true&hide_title=true" alt="GitHub Stats" />
-</a>
+* Software Engineer @RedCards
+* Managing Director @BespokeTechLabs
+* AWS Certified Cloud Practitioner
 
-<a href="#">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-    <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=">
-</a>
-
-<a href="https://www.credly.com/badges/76e6ee9a-546d-4423-a596-edb8ecfee818">
-    <img align="center" src="https://images.credly.com/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png" alt="AWS Certified Cloud Practitioner" width="135" height="135" />
-</a>
-
-<div>&nbsp;</div>
-
-## Skills, Tools, and Proficiencies
-
-### Web Platforms and APIs
+### Skills, Tools, and Proficiencies
 
 ![](https://img.shields.io/static/v1?label=&message=C%23&color=brightgreen)
 ![](https://img.shields.io/badge/ASP.NET%20Core-brightgreen)
